@@ -1,0 +1,1 @@
+var Alert;Alert=function(config){this.config=config;};Alert.prototype.config={};Alert.prototype.show=function(){alert(this.config.msg);};
