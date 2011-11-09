@@ -5,7 +5,7 @@ With bear.js it is as simple as changing a diaper to write your alerts in OOP-st
 
 Simply download bear.js and include it in your project like this:
 
-`<script type="text/javascript" src="bear.js"></script>`
+    <script type="text/javascript" src="bear.js"></script>
 
 Now you're able to create alerts OOP-style!
 
