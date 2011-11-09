@@ -16,4 +16,5 @@ Now you're able to create alerts OOP-style!
 
 
 Even though it's not used, you need jQuery to run bear.js. You wanna know why? No reason!
+
 Written directly in minified style, you don't even need to run it through any minifyers!
